@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Matrix_8X8_1010_(FC-B1010RGBT-HG)")(type KiCad)(uri "${KIPRJMOD}/Matrix_8X8_1010_(FC-B1010RGBT-HG).pretty")(options "")(descr ""))
+)

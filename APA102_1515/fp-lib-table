@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name SK6805_1515_matrix_lib)(type KiCad)(uri "C:/Users/Pavel/OneDrive/21schoolclub/21 Projects/SK6805_1515_matrix/SK6805_1515_matrix_lib.pretty")(options "")(descr ""))
-  (lib (name APA102_1515_matrix_lib)(type KiCad)(uri "C:/Users/Pavel/OneDrive/21schoolclub/21 Projects/APA102-1515-6_matrix/apa_print.pretty")(options "")(descr ""))
-)
